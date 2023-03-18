@@ -2,7 +2,7 @@ lng_save_fail: Не удалось сохранить языковой файл 
 lng_print_fail: 'Не удалось отправить сообщение игроку ''null'': "%1%"'
 cmd_console: Эту команду нельзя выполнить из консоли.
 cmd_shop: Открыть интерфейс магазина
-wdw_main_title: Главное меню
+wdw_main_title: Majestic Shop
 menu_buy: Покупка предметов
 menu_sell: Продажа предметов
 menu_edit_buy_list: Ред. покупаемые предметы
@@ -41,6 +41,7 @@ wdw_edit_sellable_items_empty: В магазине нет предметов, д
 btn_add_category: + Добавить категорию
 wdw_new_category: Создание новой категории
 wdw_new_category_name: 'Выберите имя (оставьте пустым, чтоб вернуться):'
+wdw_new_category_image: "Add image button (optional)"
 wdw_new_category_fail: Категория с таким названием уже существует.
 wdw_new_category_success: Новая категория успешно создана.
 wdw_rename_category_title: Переименование категории

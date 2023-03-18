@@ -2,7 +2,7 @@ lng_save_fail: 保存语言文件失败 (.lng)
 lng_print_fail: '无法向玩家发送消息 ''null'': "%1%"'
 cmd_console: 无法从控制台执行此命令.
 cmd_shop: 打开商店界面
-wdw_main_title: 主菜单
+wdw_main_title: Majestic Shop
 menu_buy: 购买物品
 menu_sell: 回收物品
 menu_edit_buy_list: 编辑购买物品
@@ -41,6 +41,7 @@ wdw_edit_sellable_items_empty: There are no sellable items in the shop.
 btn_add_category: + 添加类别
 wdw_new_category: 创建新类别
 wdw_new_category_name: "名字 (leave blank to return):"
+wdw_new_category_image: "Add image button (optional)"
 wdw_new_category_fail: A category with such a name already exists.
 wdw_new_category_success: 已成功创建新类别.
 wdw_rename_category_title: 重命名类别

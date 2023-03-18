@@ -1,7 +1,6 @@
-# Trading Interface
-![cover](screenshots/cover.png)
+# ShopUI
 
-Shop system with a graphical interface for [NukkitX][nukkitx] server software for Minecraft Bedrock Edition!
+## Plugin updated and edited to help a server YanyanQt, original fork [TradingInterface](https://github.com/Leonidius20/TradingInterface) 
 
 ## Features:
 -   Buying and selling items & shop management through an intuitive interface;

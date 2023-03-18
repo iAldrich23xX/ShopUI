@@ -29,7 +29,7 @@ public enum Message {
     CMD_SHOP("Opens the shop interface"),
 
     // Main menu
-    WDW_MAIN_TITLE("Main menu"),
+    WDW_MAIN_TITLE(TextFormat.RED + "Majestic Shop"),
     MENU_BUY("Buy items"),
     MENU_SELL("Sell items"),
     MENU_EDIT_BUY_LIST("Edit buyable items"),
@@ -98,6 +98,7 @@ public enum Message {
     // Category creation window
     WDW_NEW_CATEGORY("Creating a new category"),
     WDW_NEW_CATEGORY_NAME("Choose a name (leave blank to return):"),
+    WDW_ADD_CATEGORY_IMAGE("Add image button (optional)"),
     WDW_NEW_CATEGORY_FAIL("A category with such a name already exists."),
     WDW_NEW_CATEGORY_SUCCESS("A new category has been created successfully."),
 
